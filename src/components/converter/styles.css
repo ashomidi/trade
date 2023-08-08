@@ -1,0 +1,9 @@
+.Dropdown-control {
+    background-color: transparent !important;
+    border: none !important;
+    color: #eee !important;
+}
+
+.Dropdown-arrow-wrapper span.Dropdown-arrow {
+    display: none;
+}

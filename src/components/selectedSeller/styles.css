@@ -1,0 +1,20 @@
+.card_bg {
+  background-color: #151515 !important;
+}
+
+button.contact_btn {
+  background-color: transparent;
+  border: 1px solid #d88051;
+  color: #d88051;
+  width: max-content;
+  height: 30px;
+  font-weight: 300;
+}
+
+button.buy_btn_2 {
+  background-color: transparent;
+  color: #151515;
+  background-color: #d88051;
+  height: 45px;
+  font-weight: 600;
+}

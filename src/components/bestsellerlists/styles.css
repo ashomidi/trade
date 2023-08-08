@@ -1,0 +1,22 @@
+.card_bg {
+  background-color: #151515 !important;
+}
+
+button.buy_btn {
+  background-color: #d88051;
+  color: #151515;
+  height: 30px;
+}
+
+.css-13cymwt-control {
+  background-color: #202020 !important;
+  border: none !important;  
+}
+
+.css-1u9des2-indicatorSeparator {
+  width: 0 !important;
+}
+
+.css-w9q2zk-Input2 {
+  grid-template-columns: unset !important;
+}
